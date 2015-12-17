@@ -1,4 +1,4 @@
-# BrickIt-LEGO-Mosaic-Generator
+# BrickIt LEGO Mosaic Generator Javascript Library
 Javascript library for uploading an image and getting a LEGO-ized version of it and an optimized instruction manual almost instantly.
 
 I will be adding the core javascript library I wrote as well as some documentation on how to use it, but for now, feel free to check out www.brickit.co, all the source code is very easy to find and not minified.
