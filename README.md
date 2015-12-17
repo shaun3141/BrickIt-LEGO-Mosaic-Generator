@@ -3,7 +3,7 @@ Javascript library for uploading an image and getting a LEGO-ized version of it 
 
 I will be adding the core javascript library I wrote as well as some documentation on how to use it, but for now, feel free to check out www.brickit.co, all the source code is very easy to find and not minified.
 
-#Regarding the "Parting-Out Algorithm" I Created
+###Regarding the "Parting-Out Algorithm" I Created
 
 I created www.BrickIt.co using just jQuery and HTML5's Canvas element to do this and actually got a great algorithm for parting things out I came up with when I was 20 (3 years ago), it's wicked fast (like 1024 pegs x 1024 pegs image in less than 10 seconds) and as optimal as any complex optimization problem attempt. Everyone wayy over complicates it. I think the parting out results speaks for themselves.
 
